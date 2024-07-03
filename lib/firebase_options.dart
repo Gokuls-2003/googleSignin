@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBQwc0BZ0ttnlqM_fwa4yVTey_ovLSNcjM',
-    appId: '1:55461295836:android:230ccf6b7dda0e6842a619',
-    messagingSenderId: '55461295836',
-    projectId: 'signin-332e1',
-    storageBucket: 'signin-332e1.appspot.com',
+    apiKey: 'AIzaSyDFIe24dGHDRzhU6JYE-rD4nZtvbGC7i_E',
+    appId: '1:722385064090:android:8bbc9cf44c5ed0ffb34f23',
+    messagingSenderId: '722385064090',
+    projectId: 'signin-a0def',
+    storageBucket: 'signin-a0def.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA1S-B96-hQt7wqVwUOqf0Jamgul4MF8ok',
-    appId: '1:55461295836:ios:8d8aa1627f124eca42a619',
-    messagingSenderId: '55461295836',
-    projectId: 'signin-332e1',
-    storageBucket: 'signin-332e1.appspot.com',
-    iosClientId: '55461295836-e394lije7g7r6ai3e8scs0kp6tca2rpu.apps.googleusercontent.com',
+    apiKey: 'AIzaSyBmpHTael-v0xtvdlYOnlV9QUwA5ZxK6fM',
+    appId: '1:722385064090:ios:135e7428289ed671b34f23',
+    messagingSenderId: '722385064090',
+    projectId: 'signin-a0def',
+    storageBucket: 'signin-a0def.appspot.com',
+    iosClientId: '722385064090-khc2m9c1fqm8jl76i2pmftpjnatqcvsn.apps.googleusercontent.com',
     iosBundleId: 'com.example.googleSignin',
   );
 
